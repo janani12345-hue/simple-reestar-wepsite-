@@ -1,0 +1,71 @@
+.home-section__title{
+    
+        font-family: "Matemasie", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+.Home-section{
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+*{
+    margin:0;
+    padding:0;
+}
+.home-section__desc li{
+display:inline-block;
+color:gray;
+margin-top:10px;
+}
+li:hover{
+    color:white;
+}
+.Recipes-section__item1 img,.Recipes-section__item2 img,.Recipes-section__item4 img{
+    height:250px;
+    width:150px;
+
+}
+.Recipes-section__item1,.Recipes-section__item2,.Recipes-section__item4{
+    border:solid 2px black;
+    width:150px;
+    display:inline-block;
+}
+.Recipes-section{
+    margin-top:25px;
+    text-align:center;
+}
+.Recipes-section__button,.Recipes-section__button,.Recipes-section__button{
+    background-color:black;
+    color:white;
+    font-size:20px;
+    border:none;
+    padding:10px;
+    margin-top:5px;
+}
+.section-contactus{
+    background-color:black;
+    color:white;
+    text-align:center;
+    margin-top:20px;
+
+}
+.one table{
+    text-align:center;
+    margin:0 auto;
+}
+.one{
+    margin-top:10px;
+}
+
+.section-contactus__desc{
+    background-color:yellow;
+    color:black;
+    margin-left:80px;
+    margin-right:80px;
+    font-size:20px;
+    font-weight: bolder;
+    margin-top:10px;
+}
